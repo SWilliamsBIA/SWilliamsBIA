@@ -10,7 +10,7 @@ Recent projects include:
 • Dynamic Power BI dashboards to monitor customer satisfaction
 
 Some Facts about me:
-• I excited about participating in professional events.
+• I'am excited about participating in professional events.
 • I love all things music. (Making, Performing, Karaoke)
 • I can't make it a single day without sports.
 
