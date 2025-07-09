@@ -4,10 +4,10 @@
 
 I specialize in analyzing customer behavior, building interactive dashboards, and identifying trends that help businesses increase retention and optimize performance. 
 
-Recent projects include:
-• Cohort analysis to uncover churn trends
-• Funnel visualization for an e-commerce dataset
-• Dynamic Power BI dashboards to monitor customer satisfaction
+Recent projects include:  
+• Cohort analysis to uncover churn trends  
+• Funnel visualization for an e-commerce dataset  
+• Dynamic Power BI dashboards to monitor customer satisfaction  
 
 Some Facts about me:
 • I'am excited about participating in professional events.
