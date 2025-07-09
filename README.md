@@ -9,9 +9,9 @@ Recent projects include:
 • Funnel visualization for an e-commerce dataset  
 • Dynamic Power BI dashboards to monitor customer satisfaction  
 
-Some Facts about me:
-• I'am excited about participating in professional events.
-• I love all things music. (Making, Performing, Karaoke)
+Some Facts about me:  
+• I'am excited about participating in professional events.  
+• I love all things music. (Making, Performing, Karaoke)  
 • I can't make it a single day without sports.
 
 I’m actively seeking BI or data analyst roles in tech, e-commerce. Let’s connect if you’re looking for someone who can bring operational excellence and data storytelling together.
