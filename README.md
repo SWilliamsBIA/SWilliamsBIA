@@ -11,7 +11,7 @@ Recent projects include:
 
 Some Facts about me:  
 • I'am excited about participating in professional events.  
-• I love all things music. (Making, Performing, Karaoke)  
+• I love all things music. (Making, Performing, Karaoke) :musical_keyboard:  
 • I can't make it a single day without sports. :football:
 
 I’m actively seeking BI or data analyst roles in tech, e-commerce. Let’s connect if you’re looking for someone who can bring operational excellence and data storytelling together.
